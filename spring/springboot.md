@@ -27,3 +27,10 @@ springboot自带监控功能Actuator，可以帮助实现对程序内部运行�
 springboot admin提供了一种图形化的界面去分析监控的数据。
 
 actuator和admin在OPs里面添加。
+
+
+## springboot项目部署
+- jar包(官方推荐)
+- war包
+
+
